@@ -23,8 +23,13 @@
    12. run npm start
 
 7. Fetch Products From Backend
+
    1. set proxy in package.json
    2. npm install axios
    3. use state hook
    4. use effect hook
    5. use reducer hook
+
+8. Add bootstrap UI framework
+   1. npm install react-bootstrap bootstrap
+   2. update App.js
